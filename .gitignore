@@ -24,3 +24,4 @@ yarn-error.log*
 
 atlassian.iml
 .idea
+__snapshots__
